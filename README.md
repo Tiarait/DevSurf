@@ -10,7 +10,6 @@ width="25%" hspace="10" vspace="10">](#)
 Web browser with developer tools: inspect pages, run/inject JS, view console logs.
 
 DevSurf is a mobile web browser (standart WebView based) built for developers and power users. 
-
 With built-in developer tools and flexible browsing features, you can inspect, debug, and test websites directly on your device — all without leaving your browser.
 
 <p align="left">
@@ -22,7 +21,8 @@ With built-in developer tools and flexible browsing features, you can inspect, d
 </p>
 <br>
 
-## User Help (soon)
+### User Help (soon)
+
 [Information about available settings in the application](https://tiarait.github.io/DevSurf-Intro/help.html)
 
 ### Key Features:
